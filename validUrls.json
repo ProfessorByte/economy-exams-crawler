@@ -718,5 +718,32 @@
     "resourceId": 224,
     "examVersion": 3,
     "subjectId": 286
+  },
+  {
+    "slug": "2024-2-234-1-1",
+    "examUrl": "https://sacad.fce.umss.edu.bo/adm_academica/archivos/examenes/2024-2-234/1/1-1.pdf",
+    "year": 2024,
+    "semester": 2,
+    "resourceId": 234,
+    "examVersion": 1,
+    "subjectId": 1
+  },
+  {
+    "slug": "2024-2-234-2-1",
+    "examUrl": "https://sacad.fce.umss.edu.bo/adm_academica/archivos/examenes/2024-2-234/2/1-1.pdf",
+    "year": 2024,
+    "semester": 2,
+    "resourceId": 234,
+    "examVersion": 2,
+    "subjectId": 1
+  },
+  {
+    "slug": "2024-2-234-3-1",
+    "examUrl": "https://sacad.fce.umss.edu.bo/adm_academica/archivos/examenes/2024-2-234/3/1-1.pdf",
+    "year": 2024,
+    "semester": 2,
+    "resourceId": 234,
+    "examVersion": 3,
+    "subjectId": 1
   }
 ]
